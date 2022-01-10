@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.shouge.me): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Tao R](shouge.me), powered by [Upptime](https://github.com/upptime/upptime).
 
