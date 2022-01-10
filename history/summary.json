@@ -1,22 +1,22 @@
 [
   {
     "name": "Blog",
-    "url": "https://shouge.com",
-    "icon": "https://favicons.githubusercontent.com/shouge.com",
+    "url": "https://shouge.me",
+    "icon": "https://favicons.githubusercontent.com/shouge.me",
     "slug": "blog",
-    "status": "down",
-    "uptime": "86.07%",
-    "uptimeDay": "86.07%",
-    "uptimeWeek": "86.07%",
-    "uptimeMonth": "86.07%",
-    "uptimeYear": "86.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "11.57%",
+    "uptimeDay": "11.57%",
+    "uptimeWeek": "11.57%",
+    "uptimeMonth": "11.57%",
+    "uptimeYear": "11.57%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2022-01-10": 0
+      "2022-01-10": 5
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 637,
-    "timeWeek": 637,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "time": 546,
+    "timeDay": 546,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   }
 ]
