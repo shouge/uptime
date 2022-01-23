@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/shouge.me",
     "slug": "blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.87%",
+    "uptimeDay": "36.35%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "94.87%",
+    "uptimeYear": "94.87%",
     "time": 98,
-    "timeDay": 72,
-    "timeWeek": 95,
+    "timeDay": 0,
+    "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-01-22": 0
+      "2022-01-23": 45,
+      "2022-01-22": 871
     }
   },
   {
@@ -25,19 +26,17 @@
     "icon": "https://favicons.githubusercontent.com/hk.node.shouge.me",
     "slug": "proxy",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 612,
-    "timeDay": 638,
-    "timeWeek": 615,
-    "timeMonth": 612,
-    "timeYear": 612,
-    "dailyMinutesDown": {
-      "2022-01-22": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 613,
+    "timeDay": 640,
+    "timeWeek": 617,
+    "timeMonth": 613,
+    "timeYear": 613,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status",
@@ -45,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/status.shouge.me",
     "slug": "status",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 82,
-    "timeDay": 83,
+    "uptime": "94.86%",
+    "uptimeDay": "36.35%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "94.86%",
+    "time": 80,
+    "timeDay": 63,
     "timeWeek": 84,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2022-01-22": 13
+      "2022-01-23": 45,
+      "2022-01-22": 871
     }
   }
 ]
