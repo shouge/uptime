@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://shouge.me
   - name: Proxy
-    url: https://proxy-node1.shouge.repl.co
+    url: https://proxy-node1.shouge.repl.co/d6c41e25-f9d3-4fae-be9d-30dfa0fca332
   - name: Status
     url: https://status.shouge.me
     
