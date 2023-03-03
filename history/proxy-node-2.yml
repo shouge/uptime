@@ -1,7 +1,7 @@
 url: https://proxy-node2.shouge.repl.co/55d90fe9-556c-438a-995c-24328f5cdc31
 status: down
-code: 404
-responseTime: 5198
-lastUpdated: 2023-03-02T23:18:02.782Z
+code: 429
+responseTime: 474
+lastUpdated: 2023-03-03T23:17:47.155Z
 startTime: Mon Jan 09 2023 07:04:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
