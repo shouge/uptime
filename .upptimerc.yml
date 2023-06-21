@@ -3,10 +3,12 @@ owner: shouge # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: PROXY_NODE_2
-    url: https://proxy-node2.shouge.repl.co/55d90fe9-556c-438a-995c-24328f5cdc31
-  - name: PROXY_NODE_1
-    url: https://proxy-node1.shouge.repl.co/d6c41e25-f9d3-4fae-be9d-30dfa0fca332
+  - name: PROXY_NODE_HONGKONG
+    url: https://alicloud-hk-node.yaofan.online/
+  - name: PROXY_NODE_JAPAN
+    url: https://aws-jp-node.yaofan.online/
+  - name: CHAT_GPT_PROXY
+    url: https://chat.yaofan.online/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
