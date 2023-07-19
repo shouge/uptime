@@ -22,9 +22,9 @@
     "url": "https://aws-jp-node.yaofan.online/",
     "icon": "https://icons.duckduckgo.com/ip3/aws-jp-node.yaofan.online.ico",
     "slug": "proxy-node-japan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -34,6 +34,7 @@
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2023-07-19": 0,
       "2023-06-21": 89
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://chat.yaofan.online/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.yaofan.online.ico",
     "slug": "chat-gpt-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 1674,
-    "timeDay": 989,
-    "timeWeek": 836,
-    "timeMonth": 1674,
-    "timeYear": 1674,
+    "time": 1637,
+    "timeDay": 747,
+    "timeWeek": 794,
+    "timeMonth": 1637,
+    "timeYear": 1637,
     "dailyMinutesDown": {
+      "2023-07-19": 0,
       "2023-06-21": 81
     }
   }
