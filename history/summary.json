@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alicloud-hk-node.yaofan.online.ico",
     "slug": "proxy-node-hongkong",
     "status": "down",
-    "uptime": "52.08%",
+    "uptime": "51.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.55%",
+    "uptimeYear": "32.28%",
     "time": 605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 606,
+    "timeYear": 607,
     "dailyMinutesDown": {
-      "2024-11-16": 72,
+      "2024-11-17": 77,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -273,7 +274,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aws-jp-node.yaofan.online.ico",
     "slug": "proxy-node-japan",
     "status": "down",
-    "uptime": "28.48%",
+    "uptime": "28.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -284,7 +285,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 72,
+      "2024-11-17": 77,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -647,8 +649,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -657,7 +658,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.yaofan.online.ico",
     "slug": "chat-gpt-proxy",
     "status": "down",
-    "uptime": "22.96%",
+    "uptime": "22.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -668,7 +669,8 @@
     "timeMonth": 0,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-11-16": 72,
+      "2024-11-17": 77,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -1031,8 +1033,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   }
 ]
