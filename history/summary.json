@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alicloud-hk-node.yaofan.online.ico",
     "slug": "proxy-node-hongkong",
     "status": "down",
-    "uptime": "47.05%",
+    "uptime": "46.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.35%",
+    "uptimeYear": "19.08%",
     "time": 604,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-01-10": 72,
+      "2025-01-11": 71,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -320,7 +321,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aws-jp-node.yaofan.online.ico",
     "slug": "proxy-node-japan",
     "status": "down",
-    "uptime": "25.73%",
+    "uptime": "25.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -331,7 +332,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-10": 72,
+      "2025-01-11": 71,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -694,8 +696,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   },
   {
@@ -704,18 +705,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.yaofan.online.ico",
     "slug": "chat-gpt-proxy",
     "status": "down",
-    "uptime": "20.74%",
+    "uptime": "20.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 711,
+    "time": 708,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-01-10": 73,
+      "2025-01-11": 71,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -1078,8 +1080,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   }
 ]
