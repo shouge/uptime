@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alicloud-hk-node.yaofan.online.ico",
     "slug": "proxy-node-hongkong",
     "status": "down",
-    "uptime": "35.17%",
+    "uptime": "35.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 622,
+    "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 97,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -379,8 +380,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aws-jp-node.yaofan.online.ico",
     "slug": "proxy-node-japan",
     "status": "down",
-    "uptime": "19.23%",
+    "uptime": "19.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 97,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -763,8 +764,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.yaofan.online.ico",
     "slug": "chat-gpt-proxy",
     "status": "down",
-    "uptime": "15.51%",
+    "uptime": "15.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 98,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -1147,8 +1148,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   }
 ]
