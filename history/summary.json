@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.shouge.host.ico",
     "slug": "proxy-hong-kong",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 685,
     "timeDay": 696,
     "timeWeek": 687,
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.shouge.host.ico",
     "slug": "uptime-status",
     "status": "up",
-    "uptime": "85.85%",
+    "uptime": "86.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.85%",
-    "uptimeYear": "85.85%",
+    "uptimeMonth": "86.37%",
+    "uptimeYear": "86.37%",
     "time": 180,
     "timeDay": 106,
     "timeWeek": 134,
@@ -75,6 +75,8 @@
     "timeWeek": 115,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   }
 ]
