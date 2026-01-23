@@ -10,7 +10,7 @@ sites:
   - name: Uptime Status
     url: https://status.shouge.host
   - name: Worker Proxy
-    url: https://worker-proxy.yaofan.online
+    url: https://cf.proxy.shouge.host
   
 
 status-website:
